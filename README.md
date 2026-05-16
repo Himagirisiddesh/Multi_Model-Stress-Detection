@@ -77,15 +77,6 @@ python app.py
 * Dataset: FER-2013 / Custom dataset
 * Output Classes: 7 emotions
 
-📊 Results
-
-| Metric              | Value |
-| ------------------- | ----- |
-| Training Accuracy   | XX%   |
-| Validation Accuracy | XX%   |
-
-📌 *Update these values based on your trained model results*
-
 
 ## 💡 Future Enhancements
 
