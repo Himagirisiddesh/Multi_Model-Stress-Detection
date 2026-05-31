@@ -1,4 +1,4 @@
-🧠 Emotion Detection AI
+🧠 Multi_Model-Stress-Detection
 
 An AI-powered system that detects human emotions in real-time using **Computer Vision** and **Deep Learning techniques**. This project leverages a Convolutional Neural Network (CNN) to analyze facial expressions and classify emotions accurately.
 
